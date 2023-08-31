@@ -1,6 +1,3 @@
-# SLAM_Papers
-List of SLAM papers I found useful.
-
 # <p align='center'>`SLAM Useful Papers`</p>
 
 This is a list of papers I found useful and am collecting for my use as well as for others. This is not a complete list, this is just the papers I found, let me know if you think there are some others I should add. I'll try to keep organizing this into subcategories as the papers accumulate.
