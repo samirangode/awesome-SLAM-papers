@@ -11,10 +11,10 @@ Follow the numbers next to the list to get an order of reading these papers.
 <summary>Table of Content</summary>
 
 - [SLAM Basics](#slam-basics)
-- [SLAM/Tracking and Mapping](#slam-start)
-- [Visual Odometry](#vo)
+- [SLAM/Tracking and Mapping](#slam/tracking-and-mapping)
+- [Visual Odometry](#visual-odometry)
 - [Visual-Inertial](#visual-inertial)
-- [Lidar Odometry](#lo)
+- [Lidar Odometry](#lidar-odometry)
 - [Lidar-Inertial](#lidar-inertial)
 - [iSAM](#iSAM)
 
