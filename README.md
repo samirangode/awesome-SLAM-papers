@@ -51,12 +51,12 @@ Follow the numbers next to the list to get an order of reading these papers.
 
 ## Lidar Odometry
 1. Low-drift and Real-time Lidar Odometry and Mapping
-2.
+2. KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way
+
 ## Lidar-Inertial
 1. LIO-SAM: Tightly-coupled Lidar Inertial Odometry via
 Smoothing and Mapping
 2. LeGO-LOAM: Lightweight and Groundoptimized Lidar Odometry and Mapping on Variable Terrain
-3. KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way
 
 ## iSAM
 1. Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing
