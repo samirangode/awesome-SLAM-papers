@@ -17,6 +17,7 @@ Follow the numbers next to the list to get an order of reading these papers.
 - [Lidar Odometry](#lidar-odometry)
 - [Lidar-Inertial](#lidar-inertial)
 - [iSAM](#iSAM)
+- [TODO](#TODO)
 
 
 
@@ -69,6 +70,8 @@ Smoothing and Mapping
 CPA-SLAM: Consistent Plane-Model Alignment for Direct RGB-D SLAM
 Efficient Non-Consecutive Feature Tracking for Robust Structure-from-Motion
 
+## TODO
+1. Add links to the paper pdfs/ project pages
 
 <!-- ### `New to NeRF`
 
