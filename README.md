@@ -18,6 +18,7 @@ Follow the numbers next to the list to get an order of reading these papers.
 - [Lidar-Inertial](#lidar-inertial)
 - [iSAM](#iSAM)
 - [TODO](#TODO)
+- [Resources](#Misc)
 
 
 
@@ -71,7 +72,7 @@ CPA-SLAM: Consistent Plane-Model Alignment for Direct RGB-D SLAM
 Efficient Non-Consecutive Feature Tracking for Robust Structure-from-Motion
 
 ## Misc Resources
-1. [[SLAM Interview Questions](https://www.cv-learn.com/20231128-slam-interview-questions-100-eng/)]
+1. [SLAM Interview Questions](https://www.cv-learn.com/20231128-slam-interview-questions-100-eng/)
 
 ## TODO
 1. Add links to the paper pdfs/ project pages
