@@ -17,7 +17,7 @@ Follow the numbers next to the list to get an order of reading these papers.
 - [Lidar Odometry](#lidar-odometry)
 - [Lidar-Inertial](#lidar-inertial)
 - [iSAM](#iSAM)
-- [Resources](#misc-resources)
+- [Misc Resources](#misc-resources)
 - [TODO](#TODO)
 
 
